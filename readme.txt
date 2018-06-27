@@ -1,0 +1,1 @@
+This is a non-production web project was made for improving and consolidating own skills.
